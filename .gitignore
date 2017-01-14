@@ -2,3 +2,6 @@ dist/
 generated-docs/
 node_modules/
 npm-debug.log
+.idea/codeStyleSettings.xml
+.idea/dropbox-sdk-js.iml
+.idea/encodings.xml
